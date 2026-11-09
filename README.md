@@ -8,11 +8,8 @@
 
 
 # 💫 About Me:
-## 👋 About Me
+# Hi, I'm Anshu! 👋<br><br><br>I'm a **B.Tech CSE (AI & ML) student at Brainware University** and a **professional photographer**. I enjoy opening a piece of code I've never seen before, tracing what it does, and trying what I learn in my own projects.<br><br>### What I've worked on<br><br>- 🐍 **Python** — Built a bank account program to practise classes and methods.<br>- 🗄️ **SQL** — Built a student–course enrollment database and practised joins and grouped queries.<br>- 📊 **Power BI** — Built a practice sales dashboard to explore monthly sales trends.<br>- 📸 **Photography** — I bring the same eye for detail to framing a photograph and designing a chart that someone can read at a glance.<br><br>🌱 **Currently learning:** Data cleaning and analysis with Pandas, plus machine learning fundamentals.  <br>🎯 **Open to:** Data analyst internships where I can use Python, SQL, and Power BI to answer business questions.
 
-<sub>I'm studying <strong>Computer Science and Engineering (AI &amp; ML) at Brainware University</strong>. When I come across unfamiliar code, I like tracing how it works and trying what I learn in my own projects. Away from the keyboard, I enjoy fixing hardware and making things out of metal.</sub>
-
-<sub>I'm also a <strong>professional photographer</strong>. Photography has taught me to notice small details and think about where someone's eye goes first. I bring that same habit to the charts and dashboards I build.</sub>
 
 
 <img aling="right" alt="coding" width="100" src="https://media.tenor.com/XisBcUMvcmgAAAAm/pengu-pudgy.webp"><img aling="right" alt="coding" width="500" src="https://zoomchartswebstorage.blob.core.windows.net/template-gallery/th-20240110-152356-na-retail-supply-chain-and-sales-analysis-sushree-jena-thumbnail.webp">

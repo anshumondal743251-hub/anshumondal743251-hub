@@ -1,3 +1,12 @@
+<div align="center">
+
+# Anshu Mondal
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=22&amp;duration=2800&amp;pause=1200&amp;color=3B82F6&amp;center=true&amp;vCenter=true&amp;width=640&amp;height=52&amp;repeat=true&amp;lines=Hi%2C+I%27m+Anshu+Mondal%21+%F0%9F%91%8B;Let%27s+build+something+crazy%21+%F0%9F%9A%80;I+love+technology.+%F0%9F%92%BB;I%27m+always+thinking+of+what+to+build+next.+%F0%9F%92%A1;I+love+fixing+hardware.+%F0%9F%94%A7;I+enjoy+making+things+out+of+metal.+%E2%9A%99%EF%B8%8F;I+love+my+friends.+%F0%9F%A4%9D" alt="Animated introduction for Anshu Mondal">
+
+</div>
+
+
 # 💫 About Me:
 # Hi, I'm Anshu! 👋<br><br><br>I'm a **B.Tech CSE (AI & ML) student at Brainware University** and a **professional photographer**. I enjoy opening a piece of code I've never seen before, tracing what it does, and trying what I learn in my own projects.<br><br>### What I've worked on<br><br>- 🐍 **Python** — Built a bank account program to practise classes and methods.<br>- 🗄️ **SQL** — Built a student–course enrollment database and practised joins and grouped queries.<br>- 📊 **Power BI** — Built a practice sales dashboard to explore monthly sales trends.<br>- 📸 **Photography** — I bring the same eye for detail to framing a photograph and designing a chart that someone can read at a glance.<br><br>🌱 **Currently learning:** Data cleaning and analysis with Pandas, plus machine learning fundamentals.  <br>🎯 **Open to:** Data analyst internships where I can use Python, SQL, and Power BI to answer business questions.
 

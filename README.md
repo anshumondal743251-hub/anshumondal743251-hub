@@ -21,7 +21,9 @@
 </sub>
 
 
-<img aling="right" alt="coding" width="100" src="https://media.tenor.com/XisBcUMvcmgAAAAm/pengu-pudgy.webp"><img aling="right" alt="coding" width="500" src="https://zoomchartswebstorage.blob.core.windows.net/template-gallery/th-20240110-152356-na-retail-supply-chain-and-sales-analysis-sushree-jena-thumbnail.webp"><img aling="right" alt="coding" width="100" src="https://media.tenor.com/XisBcUMvcmgAAAAm/pengu-pudgy.webp">
+<p align="center">
+  <img alt="coding" width="100" src="https://media.tenor.com/XisBcUMvcmgAAAAm/pengu-pudgy.webp"><img alt="coding" width="500" src="https://zoomchartswebstorage.blob.core.windows.net/template-gallery/th-20240110-152356-na-retail-supply-chain-and-sales-analysis-sushree-jena-thumbnail.webp"><img alt="coding" width="100" src="https://media.tenor.com/XisBcUMvcmgAAAAm/pengu-pudgy.webp">
+</p>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/anshu442006) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.linkedin.com/in/anshu-mondal-1a4b503b6) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mondalansu17/?utm_source=chatgpt.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anshu-mondal-1a4b503b6/?utm_source=chatgpt.com) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anshumondal743251@gmail.com) 

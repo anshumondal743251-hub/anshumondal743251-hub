@@ -6,6 +6,9 @@
 
 </div>
 
+<img width="1200" height="628" alt="image" src="https://github.com/user-attachments/assets/60f02c5d-2de0-42de-840d-9431b76e49f6" />
+
+
 <sub>
 # 💫 About Me:
 # Hi, I'm Anshu! 👋<br><br><br>I'm a **B.Tech CSE (AI & ML) student at Brainware University** and a **professional photographer**. I enjoy opening a piece of code I've never seen before, tracing what it does, and trying what I learn in my own projects.<br><br>### What I've worked on<br><br>- 🐍 **Python** — Built a bank account program to practise classes and methods.<br>- 🗄️ **SQL** — Built a student–course enrollment database and practised joins and grouped queries.<br>- 📊 **Power BI** — Built a practice sales dashboard to explore monthly sales trends.<br>- 📸 **Photography** — I bring the same eye for detail to framing a photograph and designing a chart that someone can read at a glance.<br><br>🌱 **Currently learning:** Data cleaning and analysis with Pandas, plus machine learning fundamentals.  <br>🎯 **Open to:** Data analyst internships where I can use Python, SQL, and Power BI to answer business questions.

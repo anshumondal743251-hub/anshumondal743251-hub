@@ -6,7 +6,7 @@
 
 </div>
 
-[<img src="./advanced-python.gif" width="800" alt="Advanced Python preview" />](https://levelup-newsletter.tecla.io/p/advanced-python-awaits)
+[<img src="./advanced-python.gif" width="800" alt="Advanced Python preview" />]
 
 
 <sub>

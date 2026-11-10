@@ -22,9 +22,10 @@
 
 
 <p align="center">
-  <img alt="Penguin" width="100" src="https://media.tenor.com/XisBcUMvcmgAAAAm/pengu-pudgy.webp"><img alt="Retail Sales Dashboard" width="500" src="https://zoomchartswebstorage.blob.core.windows.net/template-gallery/th-20240110-152356-na-retail-supply-chain-and-sales-analysis-sushree-jena-thumbnail.webp"><img alt="Penguin" width="100" src="https://media.tenor.com/XisBcUMvcmgAAAAm/pengu-pudgy.webp">
-  <br><br>
-  <img alt="Hotel Management Dashboard" width="500" src="https://cdn.analyticsvidhya.com/wp-content/uploads/2024/12/Hotel-Management-Dashboard.webp">
+  <img alt="Penguin" width="70" src="https://media.tenor.com/XisBcUMvcmgAAAAm/pengu-pudgy.webp">
+  <img alt="Retail Sales Dashboard" width="300" src="https://zoomchartswebstorage.blob.core.windows.net/template-gallery/th-20240110-152356-na-retail-supply-chain-and-sales-analysis-sushree-jena-thumbnail.webp">
+  <img alt="Hotel Management Dashboard" width="300" src="https://cdn.analyticsvidhya.com/wp-content/uploads/2024/12/Hotel-Management-Dashboard.webp">
+  <img alt="Penguin" width="70" src="https://media.tenor.com/XisBcUMvcmgAAAAm/pengu-pudgy.webp">
 </p>
 
 ## 🌐 Socials:

@@ -6,7 +6,7 @@
 
 </div>
 
-[<img src="https://media1.giphy.com/media/coxQHKASG60HrHtvkt/200.gif" width="300" alt="Advanced Python GIF" />](https://levelup-newsletter.tecla.io/p/advanced-python-awaits)
+[<img src="https://media1.giphy.com/media/coxQHKASG60HrHtvkt/200.gif" width="500" alt="Advanced Python GIF" />](https://levelup-newsletter.tecla.io/p/advanced-python-awaits)
 
 
 <sub>

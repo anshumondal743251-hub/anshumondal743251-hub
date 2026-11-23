@@ -15,11 +15,65 @@
 </p>
 
 
-<h3>
-# 💫 About Me:
-# Hi, I'm Anshu! 👋<br><br><br>I'm a **B.Tech CSE (AI & ML) student at Brainware University** and a **professional photographer**. I enjoy opening a piece of code I've never seen before, tracing what it does, and trying what I learn in my own projects.<br><br>### What I've worked on<br><br>- 🐍 **Python** — Built a bank account program to practise classes and methods.<br>- 🗄️ **SQL** — Built a student–course enrollment database and practised joins and grouped queries.<br>- 📊 **Power BI** — Built a practice sales dashboard to explore monthly sales trends.<br>- 📸 **Photography** — I bring the same eye for detail to framing a photograph and designing a chart that someone can read at a glance.<br><br>🌱 **Currently learning:** Data cleaning and analysis with Pandas, plus machine learning fundamentals.  <br>🎯 **Open to:** Data analyst internships where I can use Python, SQL, and Power BI to answer business questions.
-</h3>
+<div align="center">
 
+# Hi, I'm Anshu 👋
+
+### Aspiring Data Analyst · Photographer
+
+*B.Tech CSE (AI & ML) · Brainware University*
+
+<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+**🎯 Open to data analyst internships**
+
+</div>
+
+---
+
+## ✨ About Me
+
+I enjoy opening code I've never seen before, tracing what it does, and applying what I learn in my own projects. As a professional photographer, I bring the same eye for detail to framing a photo and to designing a chart that can be read at a glance.
+
+---
+
+## 🛠️ Projects
+
+| Project | What I Built | Skills Practised | Link |
+|---|---|---|---|
+| 🐍 **Bank Account Program** | A program to manage accounts and transactions | Python, OOP (classes & methods) | [View](#) |
+| 🗄️ **Student–Course Database** | An enrollment database with joins and grouped queries | SQL, joins, GROUP BY | [View](#) |
+| 📊 **Sales Dashboard** | A dashboard exploring monthly sales trends | Power BI, data visualization | [View](#) |
+
+---
+
+## 🌱 Currently Learning
+
+- Data cleaning and analysis with **Pandas**
+- **Machine learning** fundamentals
+
+---
+
+## 📸 Beyond Code
+
+Photography taught me composition, light, and storytelling. I use the same thinking to make data easier to understand.
+
+---
+
+<div align="center">
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-USERNAME)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+[![Portfolio](https://img.shields.io/badge/Photography-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://YOUR-LINK)
+
+</div>
 
 <p align="center">
   <img alt="Penguin" width="70" src="https://media.tenor.com/XisBcUMvcmgAAAAm/pengu-pudgy.webp">
